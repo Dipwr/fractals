@@ -1,2 +1,2 @@
 # fractals
-Proyect where I use complex numbers to explore Julia sets and the mandlebrot set.
+Proyect where I use complex numbers to explore Julia sets and the Mandlebrot set.
